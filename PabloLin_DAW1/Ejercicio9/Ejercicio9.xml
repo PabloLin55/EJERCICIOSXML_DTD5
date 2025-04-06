@@ -3,7 +3,7 @@
 Nombre: Pablo Lin
 Curso: 1DAW 
 Fecha: 1/04/2025 
-Ejercicio: XML_DTD2
+Ejercicio: XML_DTD9
 -->
 <!DOCTYPE mensajes [
 <!ELEMENT mensajes (mensaje*)>
